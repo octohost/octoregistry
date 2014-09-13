@@ -1,0 +1,2 @@
+Docker registry Vagrant Image
+==========================
